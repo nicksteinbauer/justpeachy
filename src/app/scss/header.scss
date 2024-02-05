@@ -1,0 +1,95 @@
+.mainHeader {
+    position: fixed;
+    z-index: 1000;
+    width: 100%;
+    padding: 10px 20px;
+    top: 0;
+}
+
+img.logo {
+    height: auto;
+    width: 200px;
+}
+
+button.hamburger {
+    border: none;
+}
+.hamburger {
+    background-color: transparent;
+    width: 86px;
+    height: 55px;
+    padding: 5px;
+    cursor: pointer;
+    &:hover {
+        .line {
+            width: 100%;
+        }
+        
+    }
+    
+}
+
+.hamContainer {
+    width: 60%;
+    margin: 0 20%;
+}
+
+.line {
+    height: 4px;
+    
+    margin: 8px 0;
+}
+.line1 {
+    width: 100%;
+    background-color: black;
+}
+.line2 {
+    width: 85%;
+    transition: width .4s ease;
+    background-color: black;
+}
+.line3 {
+    width: 70%;
+    transition: width .3s ease;
+    background-color: black;
+}
+.closeContainer {
+    width: 100%;
+}
+.close {
+    height: 4px;
+    background-color: #000;
+    width: 100%;
+    position: relative;
+    top: 0;
+    width: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.close1 {
+    rotate: 45deg;
+    top: 4px;
+}
+.close2 {
+    rotate: -45deg;
+}
+
+.navigation {
+    position: fixed;
+    width: 100%;
+    @media screen and (min-width: $screen-md) {
+        width: 50%;
+    }
+    height: 100%;
+    background-color: rgba($color: #fff, $alpha: .9);
+    left: 0;
+    top: 0;
+    z-index: -1;
+    padding: 84px 20px 20px 20px;
+    text-align: center;
+    font-size: 1.8em;
+    //font-weight: 200;
+    a.link {
+        cursor: pointer;
+    }
+}

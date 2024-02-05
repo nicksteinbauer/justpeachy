@@ -1,0 +1,53 @@
+.videoContain {
+    position: absolute;
+    width: 100%;
+    height: 750px;
+    top: 0;
+    z-index: 100;
+    video {
+        object-fit: cover;
+        width: 100%;
+        height: 750px;
+        @media screen and (min-width: $screen-md) {
+            height: 85vh;
+        }
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+    .videoOverlay {
+        position: absolute;
+        z-index: 1000;
+        color: #fff;
+        text-align: center;
+        width: 100%;
+        height: 100%;
+        .heroHeader {
+            padding: 0 20px;
+            text-shadow: 0 2px 5px #000;
+            span {
+                font-size: 50%;
+                line-height: 1.7;
+                display: block;
+            }
+        }
+    }
+}
+
+#lodgify-search-bar {
+    --ldg-psb-background: #ffffff;
+    --ldg-psb-border-radius: 0.42em;
+    --ldg-psb-box-shadow: 0px 24px 54px 0px rgba(0, 0, 0, 0.1);
+    --ldg-psb-padding: 16px;
+    --ldg-psb-input-background: #ffffff;
+    --ldg-psb-button-border-radius: 3.58em;
+    --ldg-psb-color-primary: #f59259;
+    --ldg-psb-color-primary-lighter:#fac9ac;
+    --ldg-psb-color-primary-darker: #7b492d;
+    --ldg-psb-color-primary-contrast: #ffffff;
+    width:100%;
+    position: absolute;
+    z-index: 1000;
+    margin-top: -37px;
+}
+

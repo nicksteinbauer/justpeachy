@@ -1,0 +1,47 @@
+footer {
+    padding-top: 20px;
+    @media screen and (min-width: $screen-md) {
+        padding-top: 100px;
+    }
+}
+
+.contact {
+    position: relative;
+    padding: 20px;
+    @media screen and (min-width: $screen-md) {
+        top: -70px;
+    }
+    h4 {
+        margin-bottom: 10px;
+    }
+    > div {
+        @media screen and (min-width: $screen-md) {
+            position: absolute;
+            width: 100%;
+            z-index: 100;
+        }
+        > div {
+            @media screen and (min-width: $screen-md) {
+                position: relative;
+                top: 20px;
+            }
+            box-shadow: 0px 24px 54px 0px rgba(0, 0, 0, 0.3);
+            border-radius: 0.42em;
+            padding: 16px;
+            background-color: #fff;
+        }
+    }
+    a {
+        padding: 10px 20px;
+        border-radius: 26px;
+        display: inline-block;
+        transition: background-color .4s ease;
+    }
+    a:link, a:active, a:visited {
+        background-color: #f59259;
+        color: #fff;
+    }
+    a:hover {
+        background-color: #7b492d;
+    }
+}
