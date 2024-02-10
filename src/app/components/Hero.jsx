@@ -39,8 +39,9 @@ export default function Hero() {
               <source src={require('../../../public/JustPeachyNew.mp4')} type='video/mp4' />
           </video>
           <div className="videoOverlay flex-vertical">
-            <header className="heroHeader">
-              <h1>Just Peachy Peninsula Cottage<span>(Not in Lakeside)</span></h1>
+            <header className="heroHeader inside-md">
+              <h1>Just Peachy Marblehead Ohio Cottage<span>(Not in Lakeside)</span></h1>
+              <h3>Located outside Lakeside Ohio, but close to all that vacationland has to offer, you and your family will enjoy our Marbleahead Peninsula home.</h3>
             </header>
           </div>
       </div>

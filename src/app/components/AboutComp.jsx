@@ -10,7 +10,7 @@ export default function AboutComp() {
   return (
     <div className="about">
         <div className="inside-lg">
-            <h2 className="smHeight">About Just Peachy Cottage (Not in Lakeside)</h2>
+            <h2 className="smHeight">About Just Peachy Marbleahead Ohio Cottage (Not in Lakeside)</h2>
             <h3>Vacation Home</h3>
             <ul className="mainPoints flex-sm">
                 <li>
