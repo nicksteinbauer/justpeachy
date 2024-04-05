@@ -14,7 +14,7 @@ function Footer() {
                         <div className="fifty text-center">
                             <h4>Address</h4>
                             <p>{address}</p>
-                            <p><a href="mailto:justpeachy@gmail.com">Directions</a></p>
+                            <p><a target="_blank" href="https://www.google.com/maps/place/726+Peach+St,+Lakeside+Marblehead,+OH+43440/@41.5396206,-82.7476773,17z/data=!3m1!4b1!4m6!3m5!1s0x883a5005296d7737:0xb00aaf41771e975a!8m2!3d41.5396206!4d-82.7451024!16s%2Fg%2F11c2cdtdc6?entry=ttu">Directions</a></p>
                         </div>
                     </div>
                 </div>

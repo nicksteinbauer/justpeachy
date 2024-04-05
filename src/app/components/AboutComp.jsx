@@ -39,7 +39,18 @@ export default function AboutComp() {
                 </li>
             </ul>
             <div>
-                <p>Located outside of Lakeside but close to all that vacationland has to offer, you and your family will enjoy our Marblehead Peninsula home. Whether you came to fish, visit the Lake Erie islands, or simply relax, this centrally located home will be the perfect place to start making new memories. Nearby attractions... South Gates to Lakeside 700 yards Mazuriks Public Lake Access and Boat Launch 1.6 miles Kelleys Island Ferry 1 mile Marblehead Lighthouse State Park 1.5 miles Just Peachy is about an 1100 square ft. home on a large double lot. The attached garage is not part of the rental. The home has three bedrooms and two full bathrooms. See photos for additional details. There are two wooden decks on the house. The rear deck has a charcoal grill and a patio table and chairs. It is a perfect place to have a cookout and a glass of wine. Ample parking for cars, pickup trucks and boat trailer. I live about 10 minutes away, but I do have a regular job and my hours vary. I will do my best to talk, text or visit if you need assistance. A quiet dead end street in a residential neighborhood. Easy to find and close to rt. 163. This home is NOT inside the gates of Lakeside. This home is within walking or biking distance to the south gates of Lakeside, downtown Marblehead and the Kellleys Island ferry. We have ample parking for cars, trucks, and even boat trailers. Parking is on site and free. In regular beds Just Peachy sleeps 6. We also offer a rollaway bed if you need to push the capacity to 7. There is plenty of room the living area for the rollaway.</p>
+                <p>Escape to our charming Marblehead Peninsula home, conveniently situated near Lakeside and surrounded by the allure of vacationland. Whether you're here to reel in big catches, explore the Lake Erie islands, or simply unwind, our centrally located cottage is the ideal starting point for creating cherished memories.</p>
+                <p>Within close proximity, you'll find a myriad of attractions to delight every member of the family:</p>
+                <ul className="text">
+                    <li>South Gates to Lakeside: 700 yards</li>
+                    <li>Mazuriks Public Lake Access and Boat Launch: 1.6 miles</li>
+                    <li>Kelleys Island Ferry: 1 mile</li>
+                    <li>Marblehead Lighthouse State Park: 1.5 miles</li>
+                </ul>
+                <p>Our 1100 square ft. home, "Just Peachy," rests on a spacious double lot with two wooden decks perfect for outdoor enjoyment. The rear deck features a charcoal grill and ample seating, ideal for alfresco dining and relaxation.</p>
+                <p>Ample on-site parking, including space for cars, pickup trucks, and boat trailers, ensures convenience throughout your stay. While I'm located just 10 minutes away, please feel free to reach out if you require any assistance, although my availability may vary due to my regular job commitments.</p>
+                <p>Nestled on a quiet dead-end street within a residential neighborhood, our home offers easy access to Route 163 and is within walking or biking distance to Lakeside, downtown Marblehead, and the Kelleys Island ferry.</p>
+                <p>"Just Peachy" comfortably sleeps 6 in regular beds, with the option to accommodate an additional guest with a rollaway bed, providing flexibility for larger groups.</p>
             </div>
         </div>
     </div>

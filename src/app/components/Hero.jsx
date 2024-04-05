@@ -40,8 +40,8 @@ export default function Hero() {
           </video>
           <div className="videoOverlay flex-vertical">
             <header className="heroHeader inside-md">
-              <h1>Just Peachy Marblehead Ohio Cottage<span>(Not in Lakeside)</span></h1>
-              <h3>Located outside Lakeside Ohio, but close to all that vacationland has to offer, you and your family will enjoy our Marbleahead Peninsula home.</h3>
+              <h1>Marblehead Ohio Cottage Rental</h1>
+              <h3>Just Peachy Cottage - Escape to our charming Marblehead Peninsula home, conveniently situated near Lakeside and surrounded by the allure of vacationland.</h3>
             </header>
           </div>
       </div>

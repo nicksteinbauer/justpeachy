@@ -6,7 +6,7 @@ import Footer from './components/Footer'
 const open = Open_Sans({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Justy Peachy Marblehead Cottage',
+  title: 'Marblehead Ohio Cottage Rental - Justy Peachy Marblehead Cottage',
   description: 'Marblehead Ohio AirBnB Cottage near Lakeside Ohio',
 }
 
