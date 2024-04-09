@@ -47,7 +47,7 @@ export default function AboutComp() {
                     <li>Kelleys Island Ferry: 1 mile</li>
                     <li>Marblehead Lighthouse State Park: 1.5 miles</li>
                 </ul>
-                <p>Our 1100 square ft. home, "Just Peachy," rests on a spacious double lot with two wooden decks perfect for outdoor enjoyment. The rear deck features a charcoal grill and ample seating, ideal for alfresco dining and relaxation.</p>
+                <p>Our 1100 square ft. home, "Just Peachy," rests on a spacious double lot with two wooden decks perfect for outdoor enjoyment. The rear deck features a Weber propane grill and ample seating, ideal for alfresco dining and relaxation.</p>
                 <p>Ample on-site parking, including space for cars, pickup trucks, and boat trailers, ensures convenience throughout your stay. While I'm located just 10 minutes away, please feel free to reach out if you require any assistance, although my availability may vary due to my regular job commitments.</p>
                 <p>Nestled on a quiet dead-end street within a residential neighborhood, our home offers easy access to Route 163 and is within walking or biking distance to Lakeside, downtown Marblehead, and the Kelleys Island ferry.</p>
                 <p>"Just Peachy" comfortably sleeps 6 in regular beds, with the option to accommodate an additional guest with a rollaway bed, providing flexibility for larger groups.</p>
