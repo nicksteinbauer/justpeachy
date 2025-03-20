@@ -9,7 +9,7 @@ function Footer() {
                         <div className="fifty text-center">
                             <h4>Contact Us</h4>
                             <p>Email</p>
-                            <p><a href="mailto:justpeachy@gmail.com">justpeachy@gmail.com</a></p>
+                            <p><a href="mailto:justpeachycottage@gmail.com">justpeachycottage@gmail.com</a></p>
                         </div>
                         <div className="fifty text-center">
                             <h4>Address</h4>
